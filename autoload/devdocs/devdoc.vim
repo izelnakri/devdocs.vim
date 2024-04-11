@@ -1,5 +1,3 @@
-vim9script
-
 import './options.vim'
 import './syntax.vim'
 import './task.vim'

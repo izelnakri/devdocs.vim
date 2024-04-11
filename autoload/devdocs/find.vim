@@ -1,5 +1,3 @@
-vim9script
-
 import './popup.vim'
 import autoload './options.vim'
 

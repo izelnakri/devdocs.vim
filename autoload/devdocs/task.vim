@@ -1,5 +1,3 @@
-vim9script
-
 export class AsyncCmd
     var job: job
 

@@ -1,5 +1,3 @@
-vim9script
-
 import './popup.vim'
 
 var data_dir = '~/.local/share/devdocs'

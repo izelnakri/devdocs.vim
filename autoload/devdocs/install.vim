@@ -1,5 +1,3 @@
-vim9script
-
 import './task.vim'
 import './popup.vim'
 

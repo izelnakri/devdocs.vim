@@ -1,5 +1,3 @@
-vim9script
-
 # some chunks shamelessly ripped from habamax
 #   https://github.com/habamax/.vim/blob/master/autoload/popup.vim
 

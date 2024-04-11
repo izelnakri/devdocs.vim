@@ -1,5 +1,3 @@
-vim9script
-
 var properties = {
     DevdocCodeblock: 'Special',
     DevdocBlockquote: 'None',  # codeblocks are sometimes wrapped in blockquote
